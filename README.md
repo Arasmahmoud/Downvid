@@ -8,9 +8,9 @@ firt things you need to do
 
 3- pip install pytube
 
-4- chomd +x downvid.py
+4- chomd +x downvid.pyc
 
-5- python downvid.py
+5- python downvid.pyc
 
 #####################################
 
